@@ -3,7 +3,6 @@
     margin : 0px;
     background: rgb(121,9,96);
 background: linear-gradient(90deg, rgba(121,9,96,1) 28%, rgba(29,0,255,1) 100%);
-
     background: #1e272e;
     padding:1rem;
     color : #fff;
@@ -31,13 +30,7 @@ h5{
     background : #2C3A47;
 }
 
-.tech-div{
-    display: flex;
-    justify-content:space-around;
-    align-items : center !important;
-    flex-wrap: wrap; 
-    gap: 20px; 
-    padding : 1rem;
+.tech-div{display: flex;justify-content:space-around;align-items : center !important;flex-wrap: wrap; gap: 20px; padding : 1rem;
 }
 
 .tech-div img{
@@ -111,7 +104,7 @@ h5{
 <!-- NEW CARD -->
 <div class="card-div">
 <h5 align="center">Frontend Technologies</h5>
-<div class="tech-div">
+<div style="display: flex;justify-content:space-around;align-items : center !important;flex-wrap: wrap; gap: 20px; padding : 1rem;">
 <!-- HTML -->
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 
@@ -133,7 +126,7 @@ h5{
 <!-- NEW CARD -->
 <div class="card-div">
 <h5 align="center">Styling Frameworks</h5>
-<div class="tech-div">
+<div style="display: flex;justify-content:space-around;align-items : center !important;flex-wrap: wrap; gap: 20px; padding : 1rem;">
 
 <!-- BOOTSTRAP -->
 
@@ -149,7 +142,7 @@ h5{
 <!-- NEW CARD -->
 <div class="card-div">
 <h5 align="center">Backend Technologies</h5>
-<div class="tech-div">
+<div style="display: flex;justify-content:space-around;align-items : center !important;flex-wrap: wrap; gap: 20px; padding : 1rem;">
 
 <!-- NEXT JS  -->
 
@@ -169,7 +162,7 @@ h5{
 <!-- NEW CARD -->
 <div class="card-div">
 <h5 align="center">Databases</h5>
-<div class="tech-div">
+<div style="display: flex;justify-content:space-around;align-items : center !important;flex-wrap: wrap; gap: 20px; padding : 1rem;">
 
 <!-- MONGO DB -->
 
@@ -189,7 +182,7 @@ h5{
 <!-- NEW CARD -->
 <div class="card-div">
 <h5 align="center">Tools Technologies</h5>
-<div class="tech-div">
+<div style="display: flex;justify-content:space-around;align-items : center !important;flex-wrap: wrap; gap: 20px; padding : 1rem;">
 
 <!-- GIT -->
 
@@ -209,7 +202,7 @@ h5{
 <!-- NEW CARD -->
 <div class="card-div">
 <h5 align="center">Cloud Based Tools/Technologies</h5>
-<div class="tech-div">
+<div style="display: flex;justify-content:space-around;align-items : center !important;flex-wrap: wrap; gap: 20px; padding : 1rem;">
 
 <!-- DOCKER  -->
 
@@ -225,7 +218,7 @@ h5{
 <!-- NEW CARD -->
 <div class="card-div">
 <h5 align="center">Data Visulaization Libraries</h5>
-<div class="tech-div">
+<div style="display: flex;justify-content:space-around;align-items : center !important;flex-wrap: wrap; gap: 20px; padding : 1rem;">
 
 <!-- CHART - Data Visualization -->
 
