@@ -40,7 +40,7 @@ I am a tech enthusiast. I am always open to collaborating on projects and innova
   
 ## ⏳ Contributions
   
-[![Vraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vrajpatelk&theme=rogue&area=true)](https://github.com/vrajpatelk)
+[![Vraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vrajpatelk&theme=merko&area=true)](https://github.com/vrajpatelk)
   
 ## 👨🏻‍💻 Coding Profiles
   
